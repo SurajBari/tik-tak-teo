@@ -5,7 +5,7 @@ A fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Th
 ---
 ## 🔗 Live Demo
 
-👉 [Play Now on Vercel](https://your-vercel-app.vercel.app)
+👉 [Play Now on Vercel](https://tik-tak-teo.vercel.app/)
 
 ---
 
